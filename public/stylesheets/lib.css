@@ -113,7 +113,7 @@ main {
 }
 
 .form-group {
-  margin-bottom: 1em;
+  margin: 1em;
 }
 
 .new-comment input[type="text"] {

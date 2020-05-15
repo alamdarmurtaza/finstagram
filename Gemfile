@@ -18,7 +18,6 @@ group :development, :test do
   gem 'sqlite3', '~> 1.3.6'
 end
 
-group :production do
+
   gem 'rails_12factor'
   gem 'pg'
-end
